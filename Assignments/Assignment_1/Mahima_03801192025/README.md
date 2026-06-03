@@ -1,3 +1,3 @@
-Student Name: Mahima Jha
-Enrollment Number: 03801192025
-College Name: IGDTUW
+Student Name: Mahima Jha <br>
+Enrollment Number: 03801192025 <br> 
+College Name: IGDTUW <br>
